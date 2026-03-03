@@ -1,0 +1,49 @@
+/workspace
+├── ARCHITECTURE.md
+├── PROJECT_SUMMARY.md
+├── QUICK_START.md
+├── README.md
+├── analysis_options.yaml
+├── assets
+│   ├── icons
+│   └── images
+├── lib
+│   ├── constants
+│   │   └── app_constants.dart
+│   ├── main.dart
+│   ├── models
+│   │   ├── schedule.dart
+│   │   ├── schedule_item.dart
+│   │   └── schedule_request.dart
+│   ├── providers
+│   │   ├── schedule_provider.dart
+│   │   └── theme_provider.dart
+│   ├── screens
+│   │   ├── home_screen.dart
+│   │   ├── schedule_detail_screen.dart
+│   │   ├── schedule_input_screen.dart
+│   │   └── settings_screen.dart
+│   ├── services
+│   │   ├── ai_service.dart
+│   │   └── storage_service.dart
+│   ├── utils
+│   │   ├── date_utils.dart
+│   │   └── validation_utils.dart
+│   └── widgets
+│       ├── loading_widget.dart
+│       ├── schedule_card.dart
+│       ├── schedule_stats.dart
+│       ├── schedule_timeline.dart
+│       └── task_input_field.dart
+├── outputs
+│   ├── workspace_output_1772417015_6038.txt
+│   ├── workspace_output_1772418048_9276.txt
+│   ├── workspace_output_1772418052_5726.txt
+│   └── workspace_output_1772418056_2663.txt
+├── pubspec.yaml
+├── test
+│   ├── unit
+│   └── widget
+└── todo.md
+
+16 directories, 31 files
